@@ -174,6 +174,9 @@ if __name__ == "__main__":
 
 <h2>Output</h2>
 
+![alt text](FOAI-7-a.png)
+
+![alt text](FOAI-7-b.png)
 
 <h2>Result</h2>
 The program runs a Tic-Tac-Toe game where the player enters board coordinates and the AI uses Alpha-Beta pruning to choose optimal moves. The game continues until a player wins or the match ends in a tie.
